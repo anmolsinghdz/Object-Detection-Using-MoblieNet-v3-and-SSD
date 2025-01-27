@@ -7,13 +7,6 @@ This repository implements object detection using the Single Shot MultiBox Detec
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-  - [Detecting Objects in Images](#detecting-objects-in-images)
-  - [Detecting Objects in Videos](#detecting-objects-in-videos)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
